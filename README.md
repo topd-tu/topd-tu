@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @topd-tu
-- 👀 I’m interested in linux and AI
-- 🌱 I’m currently learning phyton and javascript
-- 💞️ I’m looking to collaborate on writing an AI that oversee an OS, RHEL servers in particular
+- 👀 I’m interested in building customized iso
+- 🌱 I’m currently consuming phyton, javascript, linux, automation, AI, etc
+- 💞️ I’m looking to collaborate on writing a bootable iso/file customize for any user profile that fits your needs. From login in to account management - everything in one bootup! It's like a ledger, only you can use it.
 - 📫 How to reach me ... robert.suarez@albertsons.com, dagz55@gmail.com
 
 <!---
